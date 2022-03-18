@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.txt": "cpp",
+        "vector": "cpp"
+    }
+}
