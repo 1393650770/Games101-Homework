@@ -1,0 +1,25 @@
+[
+{
+  "directory": "/home/cs18/Desktop/HomeWork3/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/usr/local/include -I.././include -isystem /usr/include/opencv  -g   -std=gnu++1z -o CMakeFiles/Rasterizer.dir/main.cpp.o -c /home/cs18/Desktop/HomeWork3/main.cpp",
+  "file": "/home/cs18/Desktop/HomeWork3/main.cpp"
+},
+
+{
+  "directory": "/home/cs18/Desktop/HomeWork3/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/usr/local/include -I.././include -isystem /usr/include/opencv  -g   -std=gnu++1z -o CMakeFiles/Rasterizer.dir/rasterizer.cpp.o -c /home/cs18/Desktop/HomeWork3/rasterizer.cpp",
+  "file": "/home/cs18/Desktop/HomeWork3/rasterizer.cpp"
+},
+
+{
+  "directory": "/home/cs18/Desktop/HomeWork3/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/usr/local/include -I.././include -isystem /usr/include/opencv  -g   -std=gnu++1z -o CMakeFiles/Rasterizer.dir/Triangle.cpp.o -c /home/cs18/Desktop/HomeWork3/Triangle.cpp",
+  "file": "/home/cs18/Desktop/HomeWork3/Triangle.cpp"
+},
+
+{
+  "directory": "/home/cs18/Desktop/HomeWork3/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/usr/local/include -I.././include -isystem /usr/include/opencv  -g   -std=gnu++1z -o CMakeFiles/Rasterizer.dir/Texture.cpp.o -c /home/cs18/Desktop/HomeWork3/Texture.cpp",
+  "file": "/home/cs18/Desktop/HomeWork3/Texture.cpp"
+}
+]
