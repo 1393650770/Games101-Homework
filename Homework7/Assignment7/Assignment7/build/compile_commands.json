@@ -1,0 +1,27 @@
+[
+{
+  "directory": "D:/学习/计算机图形学/games101作业/Gams101-Homework/Homework7/Assignment7/Assignment7/build",
+  "command": "D:\\Code_Environment\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\RayTracing.dir\\main.cpp.obj -c D:\\学习\\计算机图形学\\games101作业\\Gams101-Homework\\Homework7\\Assignment7\\Assignment7\\main.cpp",
+  "file": "D:/学习/计算机图形学/games101作业/Gams101-Homework/Homework7/Assignment7/Assignment7/main.cpp"
+},
+{
+  "directory": "D:/学习/计算机图形学/games101作业/Gams101-Homework/Homework7/Assignment7/Assignment7/build",
+  "command": "D:\\Code_Environment\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\RayTracing.dir\\Vector.cpp.obj -c D:\\学习\\计算机图形学\\games101作业\\Gams101-Homework\\Homework7\\Assignment7\\Assignment7\\Vector.cpp",
+  "file": "D:/学习/计算机图形学/games101作业/Gams101-Homework/Homework7/Assignment7/Assignment7/Vector.cpp"
+},
+{
+  "directory": "D:/学习/计算机图形学/games101作业/Gams101-Homework/Homework7/Assignment7/Assignment7/build",
+  "command": "D:\\Code_Environment\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\RayTracing.dir\\Scene.cpp.obj -c D:\\学习\\计算机图形学\\games101作业\\Gams101-Homework\\Homework7\\Assignment7\\Assignment7\\Scene.cpp",
+  "file": "D:/学习/计算机图形学/games101作业/Gams101-Homework/Homework7/Assignment7/Assignment7/Scene.cpp"
+},
+{
+  "directory": "D:/学习/计算机图形学/games101作业/Gams101-Homework/Homework7/Assignment7/Assignment7/build",
+  "command": "D:\\Code_Environment\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\RayTracing.dir\\BVH.cpp.obj -c D:\\学习\\计算机图形学\\games101作业\\Gams101-Homework\\Homework7\\Assignment7\\Assignment7\\BVH.cpp",
+  "file": "D:/学习/计算机图形学/games101作业/Gams101-Homework/Homework7/Assignment7/Assignment7/BVH.cpp"
+},
+{
+  "directory": "D:/学习/计算机图形学/games101作业/Gams101-Homework/Homework7/Assignment7/Assignment7/build",
+  "command": "D:\\Code_Environment\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\RayTracing.dir\\Renderer.cpp.obj -c D:\\学习\\计算机图形学\\games101作业\\Gams101-Homework\\Homework7\\Assignment7\\Assignment7\\Renderer.cpp",
+  "file": "D:/学习/计算机图形学/games101作业/Gams101-Homework/Homework7/Assignment7/Assignment7/Renderer.cpp"
+}
+]
